@@ -79,5 +79,5 @@ Node will run this project in port 3000, you can change it in `./src/server/conf
 ### Love this repo? Give us a star ⭐
 
 <a href="./">
-  <img src="https://img.shields.io/badge/Imgslide-Rate-blue">
+  <img src="https://img.shields.io/badge/ZLL-Rate-blue">
 </a>
